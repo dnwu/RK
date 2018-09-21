@@ -250,7 +250,7 @@
                 wayInfo: "require",   // 通道信息
                 type: "require",     //进或出
                 imgUrl: {
-                    capture: "require",    // 抓拍图片地址
+                    captureUrl: "require",    // 抓拍图片地址
                     lib: [                  // 对比列表
                         {
                             url: "reuqire",   // 来源库图片地址
@@ -279,7 +279,7 @@
                 wayInfo: "require",   // 通道信息
                 type: "require",     //进或出
                 imgUrl: {
-                    capture: "require",    // 抓拍图片地址
+                    captureUrl: "require",    // 抓拍图片地址
                     lib: [                  // 对比列表
                         {
                             url: "reuqire",   // 来源库图片地址
